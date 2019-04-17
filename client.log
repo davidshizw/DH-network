@@ -1,0 +1,14 @@
+10-Dec-18 12:53:03 - Client connection established at host 127.0.0.1 port 8000
+10-Dec-18 12:53:07 - Artist name "Oliver" is sent successfully
+10-Dec-18 12:53:07 - Server response for artist "Oliver" received
+10-Dec-18 12:53:07 - It took 0.9520053863525391 ms to receive a response from the server for the request to get songs for Oliver
+10-Dec-18 12:53:07 - The response length was 27 bytes
+10-Dec-18 12:53:11 - Artist name "falco" is sent successfully
+10-Dec-18 12:53:11 - Server response for artist "falco" received
+10-Dec-18 12:53:11 - It took 0.7171630859375 ms to receive a response from the server for the request to get songs for falco
+10-Dec-18 12:53:11 - The response length was 15 bytes
+10-Dec-18 12:53:19 - Artist name "Mike" is sent successfully
+10-Dec-18 12:53:19 - Server response for artist "Mike" received
+10-Dec-18 12:53:19 - It took 0.34928321838378906 ms to receive a response from the server for the request to get songs for Mike
+10-Dec-18 12:53:19 - The response length was 39 bytes
+10-Dec-18 12:53:25 - Client connection terminated at host 127.0.0.1 port 8000

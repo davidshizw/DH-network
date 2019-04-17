@@ -1,0 +1,7 @@
+10-Dec-18 12:53:02 - Server started at host 127.0.0.1 port 8000
+10-Dec-18 12:53:03 - Client connection request received and established successfully
+10-Dec-18 12:53:07 - Artist name "OLIVER" received
+10-Dec-18 12:53:11 - Artist name "FALCO" received
+10-Dec-18 12:53:19 - Artist name "MIKE" received
+10-Dec-18 12:53:25 - Client disconnected - Total connection time: 21.1008419991 s
+10-Dec-18 12:53:27 - Server terminated
